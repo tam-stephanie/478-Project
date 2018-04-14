@@ -1,1 +1,1 @@
-# 478-Project
+# Sentiment Analysis of Anime Reviews
